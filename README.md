@@ -4,8 +4,8 @@ A modern, animated redesign of the [Tulas International School](https://tis.edu.
 
 ## Live Demo
 
-- **Live URL:** _Deploy to Vercel and add your link here_
-- **Repository:** _Add your GitHub repo link here_
+- **Live URL:** https://tis-homepage-redesign-phi-pearl.vercel.app/
+- **Repository:** https://github.com/vinaysunkari30/tis-homepage-redesign
 
 ## Tech Stack
 
@@ -26,7 +26,7 @@ A modern, animated redesign of the [Tulas International School](https://tis.edu.
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vinaysunkari30/tis-homepage-redesign
    cd Netpuppys
    ```
 
