@@ -57,7 +57,7 @@ A modern, animated redesign of the [Tulas International School](https://tis.edu.
 - `components/layout/` — Navbar, Footer
 - `components/sections/` — Hero, About, Academics, Beyond Academics, Events, Admission, Testimonials, CTA
 - `components/animation/` — Custom cursor, scroll progress, reveal wrappers
-- `hooks/` — `useMousePosition`, `useScrollProgress`
+- `hooks/` — `useMousePosition`, `useScrollProgress`, `useSectionUrl`
 - `data/content.js` — Navigation, copy, and TIS asset URLs
 
 ## Brand Identity Retained
